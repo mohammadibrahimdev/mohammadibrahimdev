@@ -33,6 +33,20 @@ I make **[Zavyx](https://github.com/mohammadibrahimdev/zavyx)** — a growing fa
       <a href="https://github.com/mohammadibrahimdev/zavyx-download-manager/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/mohammadibrahimdev/zavyx-download-manager?color=6d4aff"></a>
     </td>
   </tr>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder">
+        <img src="https://raw.githubusercontent.com/mohammadibrahimdev/zavyx-screen-recorder/main/assets/logo-256.png" width="96" alt="Zavyx Screen Recorder">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder">Zavyx Screen Recorder</a></h3>
+      Record your screen, games, webcam and sound — in sync, with on-screen drawing,
+      no watermark and no time limit.<br><br>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/mohammadibrahimdev/zavyx-screen-recorder?label=download&color=6d4aff"></a>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/mohammadibrahimdev/zavyx-screen-recorder?color=6d4aff"></a>
+    </td>
+  </tr>
 </table>
 
 ➡️ More Zavyx tools are on the way — see them all at **[github.com/mohammadibrahimdev/zavyx](https://github.com/mohammadibrahimdev/zavyx)**.
