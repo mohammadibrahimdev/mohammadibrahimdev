@@ -47,6 +47,20 @@ I make **[Zavyx](https://github.com/mohammadibrahimdev/zavyx)** — a growing fa
       <a href="https://github.com/mohammadibrahimdev/zavyx-screen-recorder/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/mohammadibrahimdev/zavyx-screen-recorder?color=6d4aff"></a>
     </td>
   </tr>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">
+        <img src="https://raw.githubusercontent.com/mohammadibrahimdev/zavyx-video-editor/main/assets/logo-256.png" width="96" alt="Zavyx Video Editor">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">Zavyx Video Editor</a></h3>
+      Timeline video editing with titles, transitions, effects and filters, colour and keyframes,
+      export to MP4 — no watermark, 64-bit and 32-bit Windows.<br><br>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/mohammadibrahimdev/zavyx-video-editor?label=download&color=6d4aff"></a>
+      <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/mohammadibrahimdev/zavyx-video-editor?color=6d4aff"></a>
+    </td>
+  </tr>
 </table>
 
 ➡️ More Zavyx tools are on the way — see them all at **[github.com/mohammadibrahimdev/zavyx](https://github.com/mohammadibrahimdev/zavyx)**.
