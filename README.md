@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mohammadibrahimdev/zavyx">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=900&color=8B6CFF&center=true&vCenter=true&width=560&lines=Building+free+%26+open-source+tools;Creator+of+Zavyx;No+ads.+No+tracking.+Just+useful+software." alt="Building free & open-source tools · Creator of Zavyx">
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=900&color=8B6CFF&center=true&vCenter=true&width=560&lines=Building+free+desktop+tools;Creator+of+Zavyx;No+ads.+No+tracking.+Just+useful+software." alt="Building free desktop tools · Creator of Zavyx">
   </a>
 </p>
 
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/mohammadibrahimdev/zavyx">
-    <img src="https://raw.githubusercontent.com/mohammadibrahimdev/zavyx/main/assets/banner.png" width="100%" alt="Zavyx — free and open-source tools for everyone">
+    <img src="https://raw.githubusercontent.com/mohammadibrahimdev/zavyx/main/assets/banner.png" width="100%" alt="Zavyx — free tools for everyone">
   </a>
 </p>
 
 ## 🚀 What I'm building
 
-I make **[Zavyx](https://github.com/mohammadibrahimdev/zavyx)** — a growing family of free, open-source desktop tools that are simple, fast and respect your privacy.
+I make **[Zavyx](https://github.com/mohammadibrahimdev/zavyx)** — a growing family of free desktop tools that are simple, fast and respect your privacy.
 
 <table>
   <tr>
