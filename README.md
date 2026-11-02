@@ -69,7 +69,8 @@ desktop tools for Windows. No ads, no tracking.
     </td>
     <td valign="top">
       <h3><a href="https://github.com/mohammadibrahimdev/zavyx-video-editor">Zavyx Video Editor</a></h3>
-      Timeline editing, colour grading, titles, effects and audio mixing — export to MP4.<br><br>
+      Timeline editing, colour grading, titles, effects and audio mixing — export to MP4.
+      Older PC? Try <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor-lite">Zavyx VE Lite</a>.<br><br>
       <a href="https://github.com/mohammadibrahimdev/zavyx-video-editor/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/mohammadibrahimdev/zavyx-video-editor?label=download&color=6d4aff"></a>
     </td>
   </tr>
